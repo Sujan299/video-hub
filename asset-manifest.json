@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.io/video-hub/static/css/main.8eb20739.css",
-    "main.js": "/github.io/video-hub/static/js/main.3ac73a55.js",
-    "static/media/lecture1.mp4": "/github.io/video-hub/static/media/lecture1.22b3ec8e05bdb4a3356f.mp4",
-    "static/media/lecture2.mp4": "/github.io/video-hub/static/media/lecture2.c809862e79f9c5ccec98.mp4",
-    "static/media/lecture3.mp4": "/github.io/video-hub/static/media/lecture3.94346e6d8380e3d0bb1a.mp4",
-    "static/media/4.jpg": "/github.io/video-hub/static/media/4.dbd47c5cb42b0708871d.jpg",
-    "static/media/3.jpg": "/github.io/video-hub/static/media/3.7e74b6f4fdfa090a0b91.jpg",
-    "static/media/1.webp": "/github.io/video-hub/static/media/1.f2603e2c82b06d0a2498.webp",
-    "static/media/2.webp": "/github.io/video-hub/static/media/2.72473f22ed7e8e2e59bb.webp",
-    "index.html": "/github.io/video-hub/index.html",
-    "main.8eb20739.css.map": "/github.io/video-hub/static/css/main.8eb20739.css.map",
-    "main.3ac73a55.js.map": "/github.io/video-hub/static/js/main.3ac73a55.js.map"
+    "main.css": "/video-hub/static/css/main.8eb20739.css",
+    "main.js": "/video-hub/static/js/main.c3faaa9f.js",
+    "static/media/lecture1.mp4": "/video-hub/static/media/lecture1.22b3ec8e05bdb4a3356f.mp4",
+    "static/media/lecture2.mp4": "/video-hub/static/media/lecture2.c809862e79f9c5ccec98.mp4",
+    "static/media/lecture3.mp4": "/video-hub/static/media/lecture3.94346e6d8380e3d0bb1a.mp4",
+    "static/media/4.jpg": "/video-hub/static/media/4.dbd47c5cb42b0708871d.jpg",
+    "static/media/3.jpg": "/video-hub/static/media/3.7e74b6f4fdfa090a0b91.jpg",
+    "static/media/1.webp": "/video-hub/static/media/1.f2603e2c82b06d0a2498.webp",
+    "static/media/2.webp": "/video-hub/static/media/2.72473f22ed7e8e2e59bb.webp",
+    "index.html": "/video-hub/index.html",
+    "main.8eb20739.css.map": "/video-hub/static/css/main.8eb20739.css.map",
+    "main.c3faaa9f.js.map": "/video-hub/static/js/main.c3faaa9f.js.map"
   },
   "entrypoints": [
     "static/css/main.8eb20739.css",
-    "static/js/main.3ac73a55.js"
+    "static/js/main.c3faaa9f.js"
   ]
 }
